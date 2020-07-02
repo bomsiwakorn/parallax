@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+}
+.parallax {
+    min-height: 600px;
+    background: url('https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg') no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+p {
+    font-size: 2rem;
+}
